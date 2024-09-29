@@ -1,1 +1,8 @@
 # CRUD-OPREATION-USING-AJAX
+Author - Abdul Haseeb
+Languages:
+HTML
+CSS
+JAVASCRIPT
+PHP
+MYSQL
